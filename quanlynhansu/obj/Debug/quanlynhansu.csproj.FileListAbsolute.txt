@@ -1,0 +1,16 @@
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe.config
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.pdb
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.Properties.Resources.resources
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.cache
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.CoreCompileInputs.cache
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.exe
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.pdb
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.giaodien.resources
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.login.resources
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.thongtin.resources
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.bangluong.resources
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.hopdong.resources
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.xem.resources
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.quenmatkhau.resources
+C:\Users\Hung David\source\repos\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.AssemblyReference.cache
